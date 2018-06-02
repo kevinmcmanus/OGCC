@@ -1,4 +1,5 @@
-# Ryan Greene
+# Ryan Greene original author
+# Kevin McManus - various modifications
 # IMPORT
 import os
 import shutil
